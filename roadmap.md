@@ -58,8 +58,8 @@
 - [x] Day 2 -- Variables & Outputs
 - [x] Day 3 -- Resources & Data Sources
 - [x] Day 4 -- Modules
-- [ ] Day 5 -- State
-- [ ] Day 6 -- Remote State
+- [x] Day 5 -- State
+- [x] Day 6 -- Remote State
 - [ ] Day 7 -- Week 1 Project
 - [ ] Day 8 -- Expressions & Functions
 - [ ] Day 9 -- Locals
